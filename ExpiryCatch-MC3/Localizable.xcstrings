@@ -1,0 +1,543 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+
+    },
+    "\n            notifications to keep you on track!" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "notifiche per non dimenticare più nulla!"
+          }
+        }
+      }
+    },
+    "\n Foods will be so " : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " Il cibo sarà "
+          }
+        }
+      }
+    },
+    "\nDon't worry, there are no scores, just " : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Non ci sono punteggi, solo"
+          }
+        }
+      }
+    },
+    "         You will receive " : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riceverai"
+          }
+        }
+      }
+    },
+    "        Break out your device and start capturing \n               those barcodes like a " : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tira fuori il tuo dispositivo e inizia a catturare quei codici a barre da"
+          }
+        }
+      }
+    },
+    "  so you never forget to use foods!" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "per non sprecare cibo prezioso"
+          }
+        }
+      }
+    },
+    " %@ " : {
+
+    },
+    " and " : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "e"
+          }
+        }
+      }
+    },
+    "%@" : {
+
+    },
+    "About to expire!" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sta per scadere!"
+          }
+        }
+      }
+    },
+    "Add" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aggiungi"
+          }
+        }
+      }
+    },
+    "Alert" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avviso"
+          }
+        }
+      }
+    },
+    "BEWARE!" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ATTENZIONE!"
+          }
+        }
+      }
+    },
+    "Calm" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Calmo"
+          }
+        }
+      }
+    },
+    "Cancel" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancella"
+          }
+        }
+      }
+    },
+    "Change the mood!" : {
+
+    },
+    "Change time" : {
+
+    },
+    "consumed on time! " : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "utilizzato in tempo!"
+          }
+        }
+      }
+    },
+    "Contact us" : {
+
+    },
+    "Continue >" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continua >"
+          }
+        }
+      }
+    },
+    "Dark mode" : {
+
+    },
+    "Day before" : {
+
+    },
+    "Disable notifications" : {
+
+    },
+    "encouraging" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " incoraggianti "
+          }
+        }
+      }
+    },
+    "Energy (kcal): %lld kcal" : {
+
+    },
+    "Expiration date not available" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Data di scadenza non disponibile"
+          }
+        }
+      }
+    },
+    "Expiration date: " : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Data di scadenza:"
+          }
+        }
+      }
+    },
+    "Expiration date: %@" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Data di scadenza: %@"
+          }
+        }
+      }
+    },
+    "Extreme" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estremo"
+          }
+        }
+      }
+    },
+    "food to save!" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " cibo da salvare!"
+          }
+        }
+      }
+    },
+    "fun" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " divertenti "
+          }
+        }
+      }
+    },
+    "happy " : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Felice "
+          }
+        }
+      }
+    },
+    "Hello, World!" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ciao, mondo!"
+          }
+        }
+      }
+    },
+    "Help" : {
+
+    },
+    "Hot" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sensuale"
+          }
+        }
+      }
+    },
+    "La tua vita è qui" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La tua vita è qui"
+          }
+        }
+      }
+    },
+    "Notifications" : {
+
+    },
+    "Nutrients:" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nutrienti"
+          }
+        }
+      }
+    },
+    "Nutrition grade: %@" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nutrienti: %@"
+          }
+        }
+      }
+    },
+    "Nutritional information not available" : {
+
+    },
+    "OK" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        }
+      }
+    },
+    "Pick your \n Expiry Catch mood!" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scegli l'umore dell'app!"
+          }
+        }
+      }
+    },
+    "Please select an expiration date." : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Per favore seleziona una data di scadenza"
+          }
+        }
+      }
+    },
+    "Preferences" : {
+
+    },
+    "Press to dismiss" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premi per chiudere"
+          }
+        }
+      }
+    },
+    "Product Name: %@" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nome prodotto: %@"
+          }
+        }
+      }
+    },
+    "Product Name: Unknown, please try again" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nome prodotto: Sconosciuto, prova di nuovo."
+          }
+        }
+      }
+    },
+    "Products" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prodotti"
+          }
+        }
+      }
+    },
+    "REAL PRO!" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " VERO PRO! "
+          }
+        }
+      }
+    },
+    "Same day" : {
+
+    },
+    "Save Product" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salva prodotto"
+          }
+        }
+      }
+    },
+    "Scan the barcode!" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inquadra il codice a barre!"
+          }
+        }
+      }
+    },
+    "Scanned Code: " : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Codice scansionato:"
+          }
+        }
+      }
+    },
+    "Scanned Code: %@" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Codice scansionato: %@"
+          }
+        }
+      }
+    },
+    "Select expiration date: " : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleziona la data di scadenza:"
+          }
+        }
+      }
+    },
+    "Set a reminders" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notifiche"
+          }
+        }
+      }
+    },
+    "Skip" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salta"
+          }
+        }
+      }
+    },
+    "Support" : {
+
+    },
+    "Terms & policies" : {
+
+    },
+    "The pasta is about to expire 🥲" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La pasta sta per scadere 🥲"
+          }
+        }
+      }
+    },
+    "This mood combines boldness\nand brazenness to spark interest, playfully\npushing conventional boundaries with\npiquancy and fun." : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Questo stato d'animo unisce audacia e sfacciataggine per suscitare interesse, spingendo giocosamente i confini convenzionali con piccantezza e divertimento."
+          }
+        }
+      }
+    },
+    "This mood exudes boldness \nand provocation, driving fearless pursuit of\n intense experiences and challenges." : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Questo stato d'animo trasuda audacia e provocazione, spingendo verso una ricerca senza paura di esperienze e sfide intense."
+          }
+        }
+      }
+    },
+    "This mood is shown by kind words,calm\ntones, favouring kindness, avoiding\naggression, and creating a positive, welcoming atmosphere" : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Questo stato d'animo si manifesta con parole gentili, toni pacati, prediligendo la gentilezza, evitando l'aggressività e creando un'atmosfera positiva e accogliente."
+          }
+        }
+      }
+    },
+    "Three days before" : {
+
+    },
+    "to be " : {
+      "localizations" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "di essere "
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
